@@ -10,3 +10,5 @@ For very high thresholds (in [0.9, 1)) we observe that the classifier does not a
 The optimal accuracy lies in between both of these extremes at a threshold of around 0.7.
 
 ![img.png](img.png)
+
+[参考链接](https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_self_training_varying_threshold.html#sphx-glr-auto-examples-semi-supervised-plot-self-training-varying-threshold-py)
